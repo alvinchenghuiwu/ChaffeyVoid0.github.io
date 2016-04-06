@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ChaffeyVoid0</title>
+    <link>http://ChaffeyVoid0.github.io/post/</link>
+    <description>Recent content in Posts on ChaffeyVoid0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2016 18:04:56 +0800</lastBuildDate>
+    <atom:link href="http://ChaffeyVoid0.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>重新出发</title>
+      <link>http://chaffeyvoid0.github.io/blog/2016/04/06/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91/</link>
+      <pubDate>Wed, 06 Apr 2016 18:04:56 +0800</pubDate>
+      
+      <guid>http://chaffeyvoid0.github.io/blog/2016/04/06/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91/</guid>
+      <description>
+
+&lt;h3 id=&#34;我的第一个blog:9f8e4b99f10ddfacf9b22760aa7c4b9f&#34;&gt;我的第一个Blog&lt;/h3&gt;
+
+&lt;p&gt;今天使用Hugo搭建了一个自己的Blog&lt;/p&gt;
+
+&lt;p&gt;hugo的搭建 &lt;a href=&#34;https://yq.aliyun.com/articles/4071&#34;&gt;https://yq.aliyun.com/articles/4071&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hyde-X文档 &lt;a href=&#34;http://www.gohugo.org/theme/hyde-x/&#34;&gt;http://www.gohugo.org/theme/hyde-x/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
